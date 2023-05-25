@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Alex! <br/> <a href="www.linkedin.com/in/alexandra-g-reid">Data Analyst</a>
 
-<!--
-**areid057/areid057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👩🏼‍💻 Data Analysis Projects:</h2>
+
+
+  <h2> 📄 Certifications:</h2>
+  
+  
+  
+<h2> 📲 Connect with me:</h2>
+
+
+[<img align="left" alt="Alex Reid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/alexandra-g-reid
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Improving My Data Analysis skills 
+- 🌱 I’m currently learning: Advanced Data Analysis
+- 📫 How to reach me: LinkdIn
+- 😄 Pronouns: She/Her
